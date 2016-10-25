@@ -446,8 +446,7 @@
         {
             "name": "Петров Петр",
             "position": "старший научный сотрудник",
-            "organization": "Роскосмос",
-            "contact": "+7 495 123 45 67"
+            "organization": "Роскосмос"
         }
     ],
     "alternate_url": "http://hh.ru/resume/12345678901234567890123456789012abcdef",
@@ -744,7 +743,6 @@ quick_purchase.currency | объект | валюта услуги
     * `name` — имя;
     * `position` — должность;
     * `organization` — организация;
-    * `contact` — телефон;
 * `resume_locale` — локаль резюме. Элемент справочника
   [локали резюме](locales.md).
 
