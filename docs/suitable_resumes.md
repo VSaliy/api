@@ -12,19 +12,19 @@
   "page": 1,
   "pages": 1,
   "items": [
-    {
-      "id": "14831542000d1f366b4c5a6a751b329b70039e",
-      "title": "Дизайнер резюме",
-      "url": "https://api.hh.ru/resumes/14831542000d1f366b4c5a6a751b329b70039e",
-      "created_at": "2013-11-03T00:43:20+0400",
-      "updated_at": "2013-11-22T12:25:18+0400",
-      "alternate_url": "http://hh.ru/resume/14831542000d1f366b4c5a6a751b329b70039e",
-    }
+      {
+          "id": "14831542000d1f366b4c5a6a751b329b70039e",
+          "title": "Дизайнер резюме",
+          "url": "https://api.hh.ru/resumes/14831542000d1f366b4c5a6a751b329b70039e",
+          "created_at": "2013-11-03T00:43:20+0400",
+          "updated_at": "2013-11-22T12:25:18+0400",
+          "alternate_url": "http://hh.ru/resume/14831542000d1f366b4c5a6a751b329b70039e"
+      }
   ],
   "overall": {
-    "not_published": 0,
-    "already_applied": 0,
-    "unavailable": 0    
+      "not_published": 0,
+      "already_applied": 0,
+      "unavailable": 0    
   }
 }
 ```
